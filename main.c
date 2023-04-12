@@ -11,7 +11,13 @@ Initial Security()
 }
 Security Patch()
 {
- //sample code
+ //Sample Code
 }
+Security Patch2()	
+{
+ //Sample Code	
+}
+
+
 
 }
